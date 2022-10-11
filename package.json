@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "debug": "^4.3.4",
     "moment": "2.29.4",
     "moment-timezone": "0.5.37",
     "prop-types": "15.8.1",
